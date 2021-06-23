@@ -1,5 +1,5 @@
 ---
-title: Holy Vote
+title: Contato
 layout: template
 filename: index
 --- 
