@@ -1,3 +1,9 @@
+---
+title: Política de privacidade
+layout: template
+filename: privacy-policy
+--- 
+
 Política de Privacidade
 
 A sua privacidade é importante para nós!
