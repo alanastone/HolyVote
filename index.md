@@ -1,3 +1,9 @@
+---
+title: Holy Vote
+layout: template
+filename: index
+--- 
+
 ## Seja bem-vindo ao Holy Vote
 
 Esse aplicativo foi desenvolvido para permitir que as eleições de cargos dentro da sua instituição aconteçam de forma online e remota. 
